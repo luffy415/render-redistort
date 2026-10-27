@@ -1,4 +1,4 @@
 interface:
   display_name: "Render Redistort"
-  short_description: "���� �ҽ��� ����� ���� �����ϰ� ���� �������� �ռ��� �ҽ� ����"
+  short_description: "Redistort renders with native format and bit depth"
   default_prompt: "Use $render-redistort to apply the supplied distortion map to my rendered frames and save compositing-ready files in the same format and bit depth."
